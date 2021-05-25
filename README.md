@@ -1,6 +1,10 @@
 # Blockchain Supply Chain Management for Drug Therapies
 There were two main problems that this project hoped to address: temperature tracking and supply chain monitoring. The temperature tracking works by having the Raspberry Pi send updates, using its temperature sensor, to the blockchain to create a auditable record of the drug and to ensure it did not reach unbearable temperatures that would ruin the substance. Additionally, the supply chain monitoring works via RFID tags which, when they scan the RFID tag. The mobile app will scan the product and send a message to the blockchain updating its location accordingly to where it is currently.
 
+## Awards
+- 2nd Place at Montgomery County Science Fair in 11th Grade Division
+- Honorable Mention (4th Place) at the Delaware Valley Science Fair in 11th Grade Division
+
 ## Purpose
 - Create a blockchain implementation of drug suppyl transport for CAR-T therapy (patient to manufacturer to patient)
 - Emulate all aspects of the drug transport chain
